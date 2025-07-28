@@ -1,4 +1,6 @@
 
+About
+Movie Search App - Built with React, Tailwind, Vite, and Appwrite backend-as-a-service - Implemented search analytics using Appwrite databases - Integrated TMDB API for movie data
 
 Tech Stack
 - React, Tailwind CSS

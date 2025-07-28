@@ -1,8 +1,11 @@
+
+
 Tech Stack
 - React, Tailwind CSS
 
 Database/Backend
 - Appwrite (Self-hosted backend service)
+    Appwrite SDK functions for backend logic and storage
 
 Installation
 1. Clone the repo
